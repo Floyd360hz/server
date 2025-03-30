@@ -116,3 +116,41 @@
 [23:02:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=261, y=19, z=-79} jh{x=261, y=19, z=-77}
 [23:02:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=272, y=18, z=-74} jh{x=273, y=17, z=-74}
 [23:04:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=307, y=16, z=-57} jh{x=312, y=17, z=-47}
+[23:07:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=334, y=13, z=-58} jh{x=335, y=14, z=-58}
+[23:07:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=334, y=13, z=-58} jh{x=335, y=14, z=-58}
+[23:07:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=334, y=13, z=-58} jh{x=335, y=14, z=-58}
+[23:07:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=334, y=13, z=-58} jh{x=335, y=14, z=-58}
+[23:08:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=335, y=18, z=5} jh{x=336, y=17, z=4}
+[23:09:33] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
+[23:09:59] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
+[23:10:31] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
+[23:17:47] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
+[23:20:33] [Server thread/INFO]: [Not Secure] <esteban20060> pera
+[23:20:37] [Server thread/INFO]: [Not Secure] <_mario___> quepaso
+[23:24:01] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
+[23:24:29] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
+[23:24:34] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
+[23:24:41] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
+[23:26:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=259, y=82, z=28} jh{x=257, y=80, z=28}
+[23:27:15] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
+[23:27:45] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
+[23:28:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=236, y=89, z=63} jh{x=236, y=87, z=63}
+[23:28:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=236, y=87, z=63} jh{x=233, y=85, z=65}
+[23:28:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=231, y=84, z=67} jh{x=231, y=82, z=68}
+[23:28:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=224, y=77, z=74} jh{x=225, y=78, z=73}
+[23:28:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=224, y=77, z=74} jh{x=225, y=78, z=73}
+[23:28:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=224, y=77, z=74} jh{x=225, y=78, z=73}
+[23:28:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=219, y=73, z=78} jh{x=218, y=72, z=79}
+[23:28:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=218, y=72, z=79} jh{x=218, y=71, z=79}
+[23:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=248, y=44, z=104} jh{x=250, y=42, z=103}
+[23:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=248, y=44, z=104} jh{x=250, y=42, z=103}
+[23:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=248, y=44, z=104} jh{x=250, y=42, z=103}
+[23:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=248, y=44, z=104} jh{x=250, y=42, z=103}
+[23:32:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=253, y=39, z=100} jh{x=253, y=38, z=101}
+[23:32:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=254, y=38, z=97} jh{x=255, y=36, z=97}
+[23:32:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=254, y=36, z=96} jh{x=255, y=36, z=97}
+[23:32:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=255, y=36, z=96} jh{x=255, y=36, z=97}
+[23:32:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=254, y=38, z=97} jh{x=255, y=36, z=97}
+[23:32:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=254, y=38, z=97} jh{x=255, y=37, z=97}
+[23:32:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=255, y=36, z=97} jh{x=254, y=36, z=98}
+[23:32:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=263, y=27, z=91} jh{x=262, y=25, z=91}

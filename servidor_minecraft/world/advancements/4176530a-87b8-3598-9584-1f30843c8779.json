@@ -11,6 +11,7 @@
       "minecraft:beach": "2025-03-29 22:06:52 +0000",
       "minecraft:dark_forest": "2025-03-29 21:25:58 +0000",
       "minecraft:forest": "2025-03-29 22:31:02 +0000",
+      "minecraft:sparse_jungle": "2025-03-30 23:30:02 +0000",
       "minecraft:river": "2025-03-29 21:56:55 +0000",
       "minecraft:lush_caves": "2025-03-29 21:31:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-29 21:28:46 +0000",
@@ -20,6 +21,7 @@
       "minecraft:cherry_grove": "2025-03-30 15:44:48 +0000",
       "minecraft:birch_forest": "2025-03-29 21:58:20 +0000",
       "minecraft:windswept_hills": "2025-03-29 22:46:19 +0000",
+      "minecraft:savanna": "2025-03-30 23:22:37 +0000",
       "minecraft:plains": "2025-03-29 22:32:11 +0000"
     },
     "done": false
@@ -907,6 +909,7 @@
       "minecraft:spider": "2025-03-29 21:57:30 +0000",
       "minecraft:piglin_brute": "2025-03-30 22:32:19 +0000",
       "minecraft:zombie": "2025-03-29 21:58:27 +0000",
+      "minecraft:zombie_villager": "2025-03-30 23:05:39 +0000",
       "minecraft:ghast": "2025-03-30 22:30:08 +0000",
       "minecraft:hoglin": "2025-03-30 22:09:11 +0000"
     },
@@ -1863,9 +1866,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-30 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-30 23:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-03-30 22:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-30 23:11:56 +0000"
     },
     "done": true
   },
@@ -1887,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-30 23:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-03-30 22:25:18 +0000"
@@ -1905,6 +1932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-30 23:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-30 22:25:18 +0000"
@@ -1914,6 +1947,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-30 22:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-30 23:11:56 +0000"
     },
     "done": true
   },
@@ -1995,6 +2034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-30 23:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-03-30 22:30:47 +0000"
@@ -2013,9 +2058,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-30 23:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-30 22:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-30 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-30 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-30 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-30 23:19:56 +0000"
     },
     "done": true
   },
@@ -2028,6 +2103,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-03-30 22:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-30 23:24:04 +0000"
     },
     "done": true
   },
