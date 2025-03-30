@@ -109,3 +109,10 @@
 [22:53:56] [Server thread/INFO]: [esteban20060: Gave 10000 experience points to _mario___]
 [22:54:06] [Server thread/INFO]: [esteban20060: Gave 100000 experience points to _mario___]
 [22:55:31] [Server thread/INFO]: esteban20060 has made the advancement [Hidden in the Depths]
+[23:01:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=276, y=49, z=-77} jh{x=276, y=48, z=-77}
+[23:01:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=274, y=45, z=-78} jh{x=275, y=44, z=-78}
+[23:02:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=263, y=27, z=-86} jh{x=263, y=27, z=-85}
+[23:02:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=261, y=25, z=-88} jh{x=260, y=23, z=-89}
+[23:02:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=261, y=19, z=-79} jh{x=261, y=19, z=-77}
+[23:02:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=272, y=18, z=-74} jh{x=273, y=17, z=-74}
+[23:04:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=307, y=16, z=-57} jh{x=312, y=17, z=-47}
