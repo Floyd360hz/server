@@ -903,6 +903,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-03-31 00:28:56 +0000",
       "minecraft:skeleton": "2025-03-29 21:49:49 +0000",
       "minecraft:piglin": "2025-03-30 22:09:40 +0000",
       "minecraft:zombified_piglin": "2025-03-29 23:25:18 +0000",
@@ -910,6 +911,7 @@
       "minecraft:spider": "2025-03-29 21:57:30 +0000",
       "minecraft:piglin_brute": "2025-03-30 22:32:19 +0000",
       "minecraft:zombie": "2025-03-29 21:58:27 +0000",
+      "minecraft:creeper": "2025-03-31 00:16:09 +0000",
       "minecraft:zombie_villager": "2025-03-30 23:05:39 +0000",
       "minecraft:ghast": "2025-03-30 22:30:08 +0000",
       "minecraft:hoglin": "2025-03-30 22:09:11 +0000"
@@ -2032,6 +2034,18 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-03-30 23:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-31 00:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-31 00:20:50 +0000"
     },
     "done": true
   },
