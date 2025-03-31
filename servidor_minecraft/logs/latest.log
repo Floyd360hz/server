@@ -1,114 +1,33 @@
-[00:00:40] [Server thread/INFO]: [Not Secure] <_mario___> 2164 37 911
-[00:03:57] [Server thread/INFO]: [Not Secure] <esteban20060> 2117 31 940
-[00:04:10] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
-[00:05:22] [Server thread/INFO]: [esteban20060: Gave 1000000 experience points to esteban20060]
-[00:05:29] [Server thread/INFO]: [esteban20060: Gave 1000000 experience points to _mario___]
-[00:06:43] [Server thread/INFO]: [esteban20060: Teleported _mario___ to esteban20060]
-[00:11:05] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
-[00:11:15] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
-[00:12:10] [Server thread/INFO]: esteban20060 has made the advancement [Fishy Business]
-[00:23:11] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
-[00:23:23] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
-[00:38:29] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
-[00:38:42] [Server thread/INFO]: [esteban20060: Set the time to 13000]
-[00:40:38] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
-[00:40:43] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to _mario___]
-[00:40:45] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2324.500000, 64.000000, 359.500000]
-[00:40:49] [Server thread/INFO]: [esteban20060: Teleported _mario___ to esteban20060]
-[00:41:05] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[00:41:19] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[00:41:53] [Server thread/INFO]: [Not Secure] <esteban20060> 2117 31 940
-[00:41:57] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2117.500000, 31.000000, 940.500000]
-[00:43:31] [Server thread/INFO]: [esteban20060: Teleported _mario___ to esteban20060]
-[00:43:40] [Server thread/INFO]: esteban20060 has made the advancement [The End?]
-[00:43:40] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[00:43:40] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[00:43:42] [Server thread/INFO]: _mario___ has made the advancement [The End?]
-[00:50:50] [Server thread/INFO]: esteban20060 has made the advancement [Free the End]
-[00:52:26] [Server thread/INFO]: esteban20060 has made the advancement [Remote Getaway]
-[00:52:28] [Server thread/INFO]: _mario___ has made the advancement [Remote Getaway]
-[00:57:05] [Server thread/INFO]: _mario___ has made the advancement [The City at the End of the Game]
-[00:58:59] [Server thread/INFO]: [esteban20060: Teleported _mario___ to esteban20060]
-[00:58:59] [Server thread/INFO]: _mario___ has completed the challenge [Great View From Up Here]
-[00:59:00] [Server thread/INFO]: _mario___ lost connection: Disconnected
-[00:59:00] [Server thread/INFO]: _mario___ left the game
-[00:59:01] [Server thread/INFO]: esteban20060 fell out of the world
-[01:01:29] [Server thread/INFO]: _mario___[/127.88.26.38:33535] logged in with entity id 69355 at (-51.15259187196604, -70.91499290377435, -1892.5330293716954)
-[01:01:29] [Server thread/INFO]: _mario___ joined the game
-[01:01:29] [Server thread/INFO]: _mario___ fell out of the world
-[01:01:30] [Server thread/INFO]: [esteban20060: Teleported _mario___ to esteban20060]
-[01:02:05] [Server thread/INFO]: _mario___ was slain by esteban20060
-[01:02:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:02:28] [Server thread/INFO]: /op _mario___<--[HERE]
-[01:02:39] [Server thread/INFO]: Made _mario___ a server operator
-[01:02:48] [Server thread/INFO]: _mario___ was slain by esteban20060
-[01:03:14] [Server thread/INFO]: _mario___ was slain by esteban20060
-[01:03:30] [Server thread/INFO]: esteban20060 was blown up by Creeper
-[01:03:46] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:03:57] [Server thread/INFO]: [_mario___: Set own game mode to Creative Mode]
-[01:04:09] [Server thread/INFO]: esteban20060 has completed the challenge [Cover Me in Debris]
-[01:08:25] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:10:23] [Server thread/INFO]: [esteban20060: Gave 100000 experience points to esteban20060]
-[01:10:25] [Server thread/INFO]: [esteban20060: Gave 100000 experience points to esteban20060]
-[01:10:27] [Server thread/INFO]: [esteban20060: Gave 100000 experience points to esteban20060]
-[01:10:29] [Server thread/INFO]: [esteban20060: Gave 100000 experience points to esteban20060]
-[01:12:04] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:12:11] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:12:47] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:13:00] [Server thread/INFO]: [_mario___: Set own game mode to Survival Mode]
-[01:13:04] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:14:01] [Server thread/INFO]: [esteban20060: Teleported esteban20060 to 2117.500000, 31.000000, 940.500000]
-[01:14:10] [Server thread/INFO]: [_mario___: Teleported _mario___ to esteban20060]
-[01:14:30] [Server thread/INFO]: [_mario___: Gave 485 experience levels to _mario___]
-[01:15:07] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:15:14] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:23:52] [Server thread/INFO]: _mario___ has reached the goal [Sky's the Limit]
-[01:26:56] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:27:07] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:27:29] [Server thread/INFO]: [_mario___: Set own game mode to Creative Mode]
-[01:27:34] [Server thread/INFO]: [_mario___: Set own game mode to Survival Mode]
-[01:27:44] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:27:51] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:29:13] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:29:23] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:31:33] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:31:35] [Server thread/INFO]: _mario___ was slain by Enderman
-[01:31:43] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:32:03] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:32:05] [Server thread/INFO]: [_mario___: Teleported _mario___ to esteban20060]
-[01:32:19] [Server thread/INFO]: [_mario___: Teleported _mario___ to esteban20060]
-[01:32:22] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:32:24] [Server thread/INFO]: _mario___ fell out of the world
-[01:32:30] [Server thread/INFO]: [_mario___: Teleported _mario___ to esteban20060]
-[01:32:43] [Server thread/INFO]: [_mario___: Teleported _mario___ to -3121.500000, 58.000000, -1113.500000]
-[01:32:56] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:33:42] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:35:13] [Server thread/INFO]: _mario___ lost connection: Disconnected
-[01:35:13] [Server thread/INFO]: _mario___ left the game
-[01:35:37] [Server thread/INFO]: _mario___[/127.88.26.38:59123] logged in with entity id 78844 at (-3531.1960577724285, 10.94787392922848, -1159.1867296541413)
-[01:35:37] [Server thread/INFO]: _mario___ joined the game
-[01:35:38] [Server thread/INFO]: [esteban20060: Teleported _mario___ to esteban20060]
-[01:35:51] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:35:59] [Server thread/INFO]: [esteban20060: Teleported _mario___ to esteban20060]
-[01:36:02] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:36:29] [Server thread/INFO]: esteban20060 has made the advancement [The City at the End of the Game]
-[01:38:30] [Server thread/INFO]: esteban20060 has reached the goal [Sky's the Limit]
-[01:38:39] [Server thread/INFO]: esteban20060 has made the advancement [Local Brewery]
-[01:41:44] [Server thread/INFO]: [esteban20060: Set own game mode to Creative Mode]
-[01:42:57] [Server thread/INFO]: [esteban20060: Set own game mode to Survival Mode]
-[01:47:38] [Server thread/INFO]: [_mario___: Set own game mode to Creative Mode]
-[01:50:31] [Server thread/INFO]: [Not Secure] <esteban20060> 5173 63 -1734
-[01:52:26] [Server thread/INFO]: esteban20060 lost connection: Disconnected
-[01:52:26] [Server thread/INFO]: esteban20060 left the game
-[01:54:49] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
-[01:55:40] [Server thread/INFO]: Locating element minecraft:end_city took 40 ms
-[01:55:53] [Server thread/INFO]: [_mario___: Teleported _mario___ to 7440.500000, 105.000000, -3183.500000]
-[01:58:28] [Server thread/INFO]: [_mario___: Teleported _mario___ to 15514.500000, 160.000000, 15000.500000]
-[01:58:31] [Server thread/INFO]: Locating element minecraft:end_city took 97 ms
-[01:58:41] [Server thread/INFO]: [_mario___: Teleported _mario___ to 15136.500000, 160.000000, 14480.500000]
-[02:00:56] [Server thread/INFO]: [_mario___: Teleported _mario___ to 5173.500000, 63.000000, -1733.500000]
-[02:01:01] [Server thread/INFO]: [_mario___: Set own game mode to Survival Mode]
-[02:02:35] [Server thread/INFO]: [_mario___: Gave 485 experience levels to _mario___]
-[02:02:39] [Server thread/INFO]: _mario___ lost connection: Disconnected
-[02:02:39] [Server thread/INFO]: _mario___ left the game
-[02:03:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:56:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:57:00] [ServerMain/INFO]: Loaded 1337 recipes
+[22:57:00] [ServerMain/INFO]: Loaded 1448 advancements
+[22:57:01] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:57:01] [Server thread/INFO]: Loading properties
+[22:57:01] [Server thread/INFO]: Default game type: SURVIVAL
+[22:57:01] [Server thread/INFO]: Generating keypair
+[22:57:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:57:01] [Server thread/INFO]: Using epoll channel type
+[22:57:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:57:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:57:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:57:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:57:01] [Server thread/INFO]: Preparing level "world"
+[22:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:57:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:57:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:57:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:57:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:57:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:57:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:57:04] [Server thread/INFO]: Time elapsed: 2661 ms
+[22:57:04] [Server thread/INFO]: Done (2.925s)! For help, type "help"
+[22:57:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:57:04] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/server/msx.py<--[HERE]
+[22:57:58] [Server thread/INFO]: _mario___[/127.91.166.218:35555] logged in with entity id 32 at (2327.17609397217, 65.0, 358.17983723508246)
+[22:57:58] [Server thread/INFO]: _mario___ joined the game
+[22:58:24] [Server thread/INFO]: Nothing changed. The player already is an operator
+[22:58:33] [Server thread/INFO]: esteban20060[/127.81.18.233:35385] logged in with entity id 304 at (2321.288495545368, 64.0, 362.23750001192093)
+[22:58:33] [Server thread/INFO]: esteban20060 joined the game
+[22:58:33] [Server thread/INFO]: [_mario___: Teleported esteban20060 to _mario___]
+[23:06:28] [Server thread/INFO]: esteban20060 lost connection: Disconnected
+[23:06:28] [Server thread/INFO]: esteban20060 left the game
